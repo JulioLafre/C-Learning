@@ -1,0 +1,14 @@
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\bin\Debug\net7.0\TiposDeDados1.exe
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\bin\Debug\net7.0\TiposDeDados1.deps.json
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\bin\Debug\net7.0\TiposDeDados1.runtimeconfig.json
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\bin\Debug\net7.0\TiposDeDados1.dll
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\bin\Debug\net7.0\TiposDeDados1.pdb
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\obj\Debug\net7.0\TiposDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\obj\Debug\net7.0\TiposDeDados1.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\obj\Debug\net7.0\TiposDeDados1.AssemblyInfo.cs
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\obj\Debug\net7.0\TiposDeDados1.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\obj\Debug\net7.0\TiposDeDados1.dll
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\obj\Debug\net7.0\refint\TiposDeDados1.dll
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\obj\Debug\net7.0\TiposDeDados1.pdb
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\obj\Debug\net7.0\TiposDeDados1.genruntimeconfig.cache
+C:\Users\julio\Desktop\C# Projects\Study\CSFundamentos\TiposDeDados1\obj\Debug\net7.0\ref\TiposDeDados1.dll
