@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("## Estrutura GoTo ##");
 
 int i = 1;
 
