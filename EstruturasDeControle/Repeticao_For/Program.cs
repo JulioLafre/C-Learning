@@ -42,5 +42,4 @@ for(int eixoX =  0; eixoX < 5; eixoX++)
         Console.WriteLine($"{eixoX}, {eixoY}");
     }
 }
-
 Console.ReadKey();
