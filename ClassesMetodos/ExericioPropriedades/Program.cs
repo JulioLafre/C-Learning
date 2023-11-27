@@ -51,8 +51,8 @@ public class Produto
 
     public void Exibir()
     {
-        Console.WriteLine($"{Nome} \n{Preco} \n{Desconto}% " +
-            $"\n{PrecoFinal} \n{minimo}");
+        Console.WriteLine($"{Nome} \n{Preco.ToString("c")} \n{Desconto}% " +
+            $"\n{PrecoFinal.ToString("c")} \n{minimo}");
     }
 
 }
