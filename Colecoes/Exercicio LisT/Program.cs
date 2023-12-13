@@ -20,6 +20,7 @@ gerenciadorDeAlunos.ExibirAlunos();
 gerenciadorDeAlunos.ExibirAlunosComNotaMinima();
 
 Console.ReadKey();
+
 public class Aluno : IComparable<Aluno>
 {
     public string Nome { get; set; }
@@ -51,7 +52,7 @@ public class GerenciarAlunos
 
     public void LocalizarAlunoExistente(string nome)
     {
-        var encontrados = alunos.FindAll(aluno => aluno.Nome == nome);
+        var encontrados = alunos.FindAll(aluno => aluno.Nome == nome); // poderia ter feito alunmo.Nome.Equals("nome do aluno")
         if (encontrados.Count > 0)
         {
             Console.WriteLine($"Alunos encontrados com o nome {nome}:");
